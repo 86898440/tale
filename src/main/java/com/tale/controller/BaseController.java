@@ -41,4 +41,6 @@ public abstract class BaseController {
         return "/comm/error_404";
     }
 
+
+    public void getSAA(){};
 }
